@@ -1,0 +1,2 @@
+MTI4OTMyNTU1NzI4NDA3NzY5MA.G4Z1K0.idgB6AKD0_CwysJcNS5_-4KfP2uiWjWXfyP13k
+https://discord.com/oauth2/authorize?client_id=1289325557284077690&permissions=1729521119656256&integration_type=0&scope=bot
